@@ -1,0 +1,1 @@
+<Hero Name> <Main Warrior> <Money> <Influence> <Army Size>

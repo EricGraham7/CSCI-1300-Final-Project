@@ -1,0 +1,6 @@
+Kiritsugu Emiya,8000,300,300,Saber,Illyasviel von Einzbern,Maiya Hisau,NULL,16,7,yes
+Kirei Kotomine,1000,100,200,Assassin,Risei Kotomine,NULL,NULL,14,9,no
+Tokiomi Tohsaka,100,50,20,Archer,Rin Tohsaka,NULL,NULL,4,5,yes
+Waver Velvet,1000,100,200,Rider,NULL,NULL,NULL,7,5,no
+Kariya Matou,1000,50,100,Berserker,Zouken Matou,NULL,NULL,13,2,no
+Ryuunosuke Uryuu,100,1000,50,Caster,NULL,NULL,NULL,18,16,no

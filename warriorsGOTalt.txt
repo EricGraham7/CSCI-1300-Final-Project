@@ -1,0 +1,14 @@
+Illyasviel von Einzbern,100,100,50,no,no,no
+Maiya Hisau,70,10,80,no,no,no
+Natalia Kaminiski,10,100,50,yes,yes,no
+Risei Kotomine,60,100,50,no,no,yes
+Rin Tohsaka,100,100,50,no,no,no
+Zouken Matou,80,50,50,no,no,no
+Thug,20,0,100,yes,no,no
+Saber,120,90,40,no,no,no
+Archer,200,90,50,no,no,no
+Lancer,200,100,60,yes,no,no
+Caster,10,100,40,no,yes,yes
+Rider,120,70,70,no,yes,no
+Berserker,120,100,30,no,no,no
+Assassin,50,100,60,no,no,no

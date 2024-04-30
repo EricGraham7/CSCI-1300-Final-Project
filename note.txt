@@ -1,0 +1,1 @@
+I decided to do the GOT project from a previous semester. The program was always super delicate as far as file reading goes. It should work, but just wanted to note that if it doesn't work, it's probably because file io is very sensitive to encoding.
